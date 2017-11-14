@@ -1,0 +1,46 @@
+.output{
+  position: relative;
+  text-align: center;
+  padding: 10px
+}
+
+.pic{
+  text-align:center;
+  margin: 0 auto
+}
+
+.upp{
+  position:absolute;
+  top:10px; 
+	left:0px;
+	width:100%;
+  color:silver;
+  font-size:200%;
+  display: block;
+  overflow: hidden
+}
+
+.bott{
+  position:absolute;
+  bottom:50px; 
+	left:0px;
+	width:100%;
+  color:silver;
+  font-size:200%;
+}
+
+.input{
+  position: relative;
+  text-align: center;
+  padding: 10px
+}
+
+.top{
+  
+  margin-left: 55px
+}
+
+.bot{
+  margin-left: 20px
+}
+
